@@ -32,8 +32,20 @@ https://docs.emmet.io/cheat-sheet/
 Сервіс для перевірки на правильну вкладеність тегів:
 https://caninclude.glitch.me
 
-Словник базових термінів для розробників-початківців та дизайнерів 📔:
+Словник базових термінів для розробників-початківців та дизайнерів:
 https://github.com/YK911/basic-dictionary
+
+Особливості inline-block елементів:
+https://css-tricks.com/fighting-the-space-between-inline-block-elements/
+
+Повний посібник з Flexbox:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Гра по Flexbox:
+http://flexboxfroggy.com/
+
+Ще одна гра на вивчення флексів:
+https://mastery.games/flexboxzombies/
 
 My Homework 1
 **робота з віддаленим репозиторієм**
