@@ -81,6 +81,7 @@ ul {
   line-height: 1.16;
   letter-spacing: 0.03em;
   color: #4d5ae5;
+  text-transform: uppercase;
 }
 
 .header-logo {
@@ -174,9 +175,7 @@ ul {
   text-align: center;
   color: #fff;
   max-width: 496px;
-  padding-bottom: 48px;
-
-  margin: 0 auto;
+  margin-bottom: 48px;
 }
 
 .hero-btn {
